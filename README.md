@@ -29,7 +29,7 @@
 		make mrproper
 		
     
-3. Kernel has enabled IO Schedulers and CPU Frequency scaling
+3. Kernel has enabled IO Schedulers and CPU Frequency scaling which are disabled by default
 
 email:microzans@gmail.com         
 Thanks Y300-0100
