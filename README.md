@@ -1,4 +1,4 @@
-# android_samsung_sm-g355h_kernel
+# android_samsung_kernel_sm-g355h
   Linux kernel release 3.x <http://kernel.org/>
 
 1. How to Build Kernel:
