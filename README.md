@@ -19,7 +19,8 @@
 		make
 		
 	Your kernel will be in my case in:
-	/home/darkside/android/kernel/samsung/kanas3gxx/arch/arm/boot (image = uncommpresed kernel zImage = commpresed kernel
+	
+		/home/darkside/android/kernel/samsung/kanas3gxx/arch/arm/boot (image = uncommpresed kernel zImage = commpresed kernel
 	
 	
 2. Allways before new build make clean:
